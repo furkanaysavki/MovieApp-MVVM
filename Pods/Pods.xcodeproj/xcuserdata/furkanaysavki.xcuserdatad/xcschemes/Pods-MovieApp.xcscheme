@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "0B967D7F8561D42493EE289EC8D450D1"
-               BuildableName = "Lottie.framework"
-               BlueprintName = "lottie-ios"
+               BlueprintIdentifier = "3809A0DF0EE0A64F2787C6DDDB016158"
+               BuildableName = "Pods_MovieApp.framework"
+               BlueprintName = "Pods-MovieApp"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
