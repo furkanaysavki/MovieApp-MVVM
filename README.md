@@ -2,7 +2,7 @@
 
 #### When the users open the application, They encounter the movie search screen. Users specify the movie they want to search and the results are listed. Users can have detailed information about the movie by selecting the movie they want and they can add their favorite movies to the list.
 
-###  Technologies 
+### :rocket: Technologies 
 
 - MVVM
 - Alamofire
